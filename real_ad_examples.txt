@@ -1,0 +1,2 @@
+Internship,Yes,2022-10-15,Example Company,Software Engineer Intern,https://example.com/internship,Ad text here,John Doe,johndoe@example.com,Some notes,2022-10-20
+Job,No,2022-10-12,Another Company,Software Developer,https://anothercompany.com/jobs,Job description,James Smith,jamessmith@example.com,Additional notes,2022-10-18
